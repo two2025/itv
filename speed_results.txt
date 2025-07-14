@@ -1,4 +1,0 @@
-CCTV10,http://125.42.148.115:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-广东卫视,http://125.42.148.115:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-河南都市,http://125.43.247.229:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-湖北卫视,http://125.43.247.229:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
