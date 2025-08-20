@@ -1,0 +1,2 @@
+CCTV9,http://125.42.151.98:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://125.42.151.98:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
