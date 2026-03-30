@@ -1,1 +1,1 @@
-CCTV1,http://101.74.28.249:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+湖北卫视,http://115.48.161.25:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,1.224 MB/s
