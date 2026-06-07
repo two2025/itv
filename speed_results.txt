@@ -1,1 +1,0 @@
-CCTV12,http://221.193.168.7:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
